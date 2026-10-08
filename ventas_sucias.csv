@@ -1,0 +1,129 @@
+id_venta,fecha,sucursal,categoria,unidades,precio_unitario,satisfaccion
+V089,2026-03-19,Santiago,Tecnología,,$271.570,4
+V119,2026-01-08,valparaíso,Oficina,4,$10.800,3
+V095,2026-04-23,Santiago,Deportes,4,$15.600,5
+V085,2026-01-15,Valparaíso,oficina,5,$4.310,4
+V042,2026-04-05,Concepción,Tecnología,3,$236.830,1
+V085,2026-01-15,Valparaíso,oficina,5,$4.310,4
+V087,2026-01-20,CONCEPCIÓN ,Tecnología,4,$278.780,4
+V033,2026-04-29,Santiago,OFICINA ,3,$10.960,1
+V029,2026-01-22,Santiago,Deportes,3,$44.690,3
+V086,2026-02-17, Santiago, Tecnología,,$198.460,5
+V075,2026-04-18,Valparaíso,Tecnología,5,$130.760,2
+V094,2026-04-15, Concepción,TECNOLOGÍA ,4,$181.000,4
+V096,2026-02-04,Concepción,Tecnología,3,$293.230,2
+V006,2026-03-26, Concepción,OFICINA ,8,$21.490,1
+V050,2026-03-22,Valparaíso,Hogar,2,$47.430,2
+V101,sin fecha,SANTIAGO ,Deportes,5,$54.370,1
+V092,2026-03-30, Concepción,Hogar,3,$22.090,4
+V113,2026-05-24,Santiago,DEPORTES ,5,$43.320,5
+V047,2026-05-30,Valparaíso,Deportes,4,$70.880,2
+V053,2026-01-30,concepción,DEPORTES ,5,$46.400,4
+V037,sin fecha,Valparaíso,Hogar,4,$51.940,4
+V082,2026-05-06,Concepción,HOGAR ,4,$28.520,3
+V046,2026-04-30,Valparaíso,tecnología,4,$77.800,
+V014,2026-06-12,Valparaíso,Oficina,4,$18.870,2
+V067,2026-04-06,Concepción,deportes,5,$58.350,
+V055,2026-03-27,santiago, Tecnología,5,$134.230,3
+V080,2026-02-27,Valparaíso,DEPORTES ,8,$20.780,1
+V023,2026-05-12,Santiago,Hogar,2,$59.040,1
+V110,2026-03-26,Concepción,Hogar,6,$31.820,5
+V027,2026-04-19, Santiago,Hogar,2,$45.920,3
+V114,2026-04-14,Santiago,Oficina,400,$8.440,2
+V113,2026-05-24,Santiago,DEPORTES ,5,$43.320,5
+V088,2026-05-07,Concepción,hogar,4,$34.280,5
+V016,2026-02-01,SANTIAGO ,deportes,6,$13.730,1
+V021,2026-01-30,Valparaíso,Tecnología,,$172.660,4
+V118,2026-01-01,Valparaíso,tecnología,5,$122.400,3
+V044,2026-03-19,Valparaíso,Hogar,6,,4
+V041,2026-06-03,Santiago,Oficina,8,$21.430,4
+V052,2026-03-07,Santiago,Hogar,8,$47.360,2
+V051,2026-06-28,concepción,Deportes,6,$55.290,2
+V013,sin fecha,Santiago,deportes,2,$42.270,5
+V077,2026-03-17,Concepción,Deportes,4,$41.120,4
+V012,2026-05-23,Santiago,hogar,5,$39.560,5
+V063,2026-06-18,Santiago,HOGAR ,5,$19.970,4
+V066,2026-05-24,Concepción,Tecnología,2,$93.550,3
+V019,2026-01-18,santiago,Tecnología,6,$133.540,1
+V120,2026-05-23,Concepción,Tecnología,8,$141.860,5
+V003,sin fecha,santiago,Hogar,4,$14.910,4
+V109,2026-06-04,santiago, Tecnología,3,$201.070,4
+V018,2026-04-28,Santiago, Oficina,2,$17.080,2
+V030,2026-04-03,Valparaíso,Oficina,3,$16.580,3
+V083,2026-03-16,Concepción,Tecnología,3,$194.050,4
+V038,2026-02-20,Concepción,Oficina,3,$8.290,2
+V031,2026-04-27, Concepción,Oficina,2,$2.100,1
+V108,2026-03-31,Valparaíso,Tecnología,5,$179.450,1
+V059,2026-04-30, Santiago,TECNOLOGÍA ,1,$76.820,4
+V096,2026-02-04,Concepción,Tecnología,3,$293.230,2
+V099,2026-06-25,Concepción,Tecnología,4,$106.930,4
+V100,2026-04-09,Concepción,deportes,5,$71.860,
+V097,2026-01-28, Santiago,Deportes,1,$19.020,1
+V028,2026-05-16,Concepción,DEPORTES ,7,$49.550,
+V060,2026-02-23,Valparaíso,Hogar,4,$53.370,1
+V004,2026-04-26,Concepción,Tecnología,6,$221.260,3
+V034,2026-03-22,Valparaíso,Deportes,8,$73.170,1
+V071,2026-03-25, Valparaíso,Oficina,5,$3.790,2
+V022,2026-06-24,Concepción,Deportes,4,$19.620,2
+V081,2026-03-15,valparaíso,Deportes,5,$18.390,3
+V106,2026-03-17,Concepción,Tecnología,4,$262.140,4
+V112,2026-05-02,Valparaíso,Hogar,1,$25.280,
+V078,2026-06-12, Santiago, Oficina,5,$15.320,2
+V036,2026-03-02,Concepción,deportes,4,$20.810,4
+V011,2026-05-30,VALPARAÍSO ,Deportes,4,$66.080,5
+V117,2026-05-24,Santiago,Oficina,3,$18.340,3
+V072,2026-06-20,valparaíso,Deportes,3,$28.290,5
+V098,2026-05-12,Valparaíso,Hogar,6,$35.410,1
+V032,2026-05-29,Concepción,tecnología,7,$159.630,1
+V017,2026-06-04,Concepción,Tecnología,7,$84.290,5
+V115,2026-06-18,Santiago,Oficina,6,$19.070,
+V002,2026-02-02, Concepción,Hogar,4,$44.480,1
+V107,2026-05-14, Santiago,Oficina,4,$14.450,1
+V116,2026-03-16,santiago,TECNOLOGÍA ,4,$210.070,1
+V036,2026-03-02,Concepción,deportes,4,$20.810,4
+V010,2026-03-05,santiago,Hogar,3,,1
+V005,2026-03-07,CONCEPCIÓN , Oficina,5,$6.790,5
+V039,2026-01-27,Valparaíso,TECNOLOGÍA ,2,,3
+V079,2026-01-01,CONCEPCIÓN ,hogar,5,$48.420,2
+V074,2026-04-12,Santiago,Oficina,2,$7.860,4
+V095,2026-04-23,Santiago,Deportes,4,$15.600,5
+V035,sin fecha,Santiago, Deportes,3,$50.010,4
+V065,2026-06-22,Valparaíso,hogar,2,$18.170,3
+V062,2026-02-07,SANTIAGO ,Oficina,2,$6.330,5
+V054,2026-02-05,Valparaíso,Tecnología,2,$41.940,1
+V102,2026-04-22,VALPARAÍSO ,Hogar,,$5.840,3
+V025,2026-02-20,Santiago, Tecnología,6,$21.960,3
+V057,2026-02-28, Concepción,Tecnología,5,$261.550,2
+V070,2026-03-04,VALPARAÍSO ,deportes,5,$9.510,2
+V064,2026-06-07,Concepción,Hogar,4,$35.320,1
+V105,2026-03-06,santiago, Hogar,3,$50.130,5
+V061,2026-06-23,Santiago,DEPORTES ,4,$31.720,4
+V020,2026-02-23,santiago,Tecnología,999,$110.020,1
+V007,2026-01-15,Santiago, Tecnología,5,$57.350,5
+V056,2026-04-18,Santiago,Tecnología,4,$79.400,2
+V076,2026-03-19,santiago,Deportes,3,,4
+V001,2026-06-03,Valparaíso,hogar,4,$31.140,1
+V045,2026-02-18,Santiago,DEPORTES ,3,$9.620,2
+V008,2026-03-08,Valparaíso,hogar,2,$58.880,5
+V049,2026-03-25,SANTIAGO ,deportes,8,$41.280,4
+V079,2026-01-01,CONCEPCIÓN ,hogar,5,$48.420,2
+V103,2026-01-07,Valparaíso,Tecnología,,$27.650,5
+V040,2026-02-10,Valparaíso,deportes,5,$33.650,2
+V009,2026-04-26,Valparaíso,Deportes,4,$59.900,1
+V091,2026-04-08,Concepción,Oficina,1,$10.910,5
+V043,2026-01-17,concepción,Deportes,3,$60.020,1
+V111,2026-01-07,CONCEPCIÓN ,Tecnología,3,$163.040,3
+V090,2026-02-11,CONCEPCIÓN ,Tecnología,4,$137.880,3
+V073,2026-05-24,Santiago,Deportes,4,$34.060,5
+V062,2026-02-07,SANTIAGO ,Oficina,2,$6.330,5
+V015,2026-05-10,Santiago,oficina,6,$17.700,
+V058,2026-03-20,Concepción,Deportes,8,$72.470,5
+V093,2026-03-27,Concepción,Deportes,4,$45.450,3
+V104,2026-03-08,valparaíso,Deportes,4,$22.620,4
+V024,2026-06-15,Santiago,Tecnología,5,$173.850,1
+V084,2026-02-26,santiago, Hogar,4,$32.110,2
+V068,2026-04-20,concepción,Oficina,250,$11.280,4
+V119,2026-01-08,valparaíso,Oficina,4,$10.800,3
+V026,2026-04-25,Santiago,DEPORTES ,,$41.260,5
+V069,2026-02-07,Santiago,Hogar,2,$43.350,1
+V048,2026-01-03,CONCEPCIÓN ,Oficina,2,$18.990,2

@@ -1,0 +1,12 @@
+{
+  "archivo_entrada": "ventas_sucias.csv",
+  "archivo_limpio": "ventas_limpias.csv",
+  "archivo_resumen": "resumen_ventas.csv",
+  "archivo_grafico": "reporte_ventas.png",
+  "columnas_texto": [
+    "sucursal",
+    "categoria"
+  ],
+  "columna_atipicos": "unidades",
+  "factor_iqr": 1.5
+}

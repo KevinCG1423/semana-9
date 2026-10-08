@@ -1,0 +1,32 @@
+2026-10-08 02:44:07,883 [INFO] Config cargada: config_reporte.json
+2026-10-08 02:44:07,898 [INFO] Datos cargados: 128 filas
+2026-10-08 02:44:07,909 [INFO] Duplicados eliminados: 8
+2026-10-08 02:44:07,923 [INFO] Nulos imputados con mediana en 'unidades': 6
+2026-10-08 02:44:07,924 [INFO] Nulos imputados con mediana en 'precio_unitario': 4
+2026-10-08 02:44:07,924 [INFO] Nulos imputados con mediana en 'satisfaccion': 7
+2026-10-08 02:44:07,926 [INFO] Nulos imputados con mediana en 'fecha': 5
+2026-10-08 02:44:07,928 [INFO] Atípicos en 'unidades' (rango 0.00-8.00) eliminados: 3
+2026-10-08 02:44:07,946 [INFO] Resumen por categoría:
+ categoria     media  mediana  desv_std
+  Deportes 193946.71 165040.0 135441.52
+     Hogar 141567.59 128385.0  79458.80
+   Oficina  55697.62  37980.0  48617.96
+Tecnología 650477.65 662475.0 363453.01
+2026-10-08 02:44:08,823 [INFO] Gráfico guardado: reporte_ventas.png
+2026-10-08 02:44:08,823 [INFO] Proceso finalizado
+2026-10-08 02:46:04,943 [INFO] Config cargada: config_reporte.json
+2026-10-08 02:46:04,945 [INFO] Datos cargados: 128 filas
+2026-10-08 02:46:04,951 [INFO] Duplicados eliminados: 8
+2026-10-08 02:46:04,952 [INFO] Nulos imputados con mediana en 'unidades': 6
+2026-10-08 02:46:04,954 [INFO] Nulos imputados con mediana en 'precio_unitario': 4
+2026-10-08 02:46:04,955 [INFO] Nulos imputados con mediana en 'satisfaccion': 7
+2026-10-08 02:46:04,957 [INFO] Nulos imputados con mediana en 'fecha': 5
+2026-10-08 02:46:04,958 [INFO] Atípicos en 'unidades' (rango 0.00-8.00) eliminados: 3
+2026-10-08 02:46:04,968 [INFO] Resumen por categoría:
+ categoria     media  mediana  desv_std
+  Deportes 193946.71 165040.0 135441.52
+     Hogar 141567.59 128385.0  79458.80
+   Oficina  55697.62  37980.0  48617.96
+Tecnología 650477.65 662475.0 363453.01
+2026-10-08 02:46:05,332 [INFO] Gráfico guardado: reporte_ventas.png
+2026-10-08 02:46:05,333 [INFO] Proceso finalizado
