@@ -1,8 +1,8 @@
 """Limpieza de ventas, estadísticas por categoría y gráficos, parametrizado por JSON."""
 import json
 import logging
-import os
 import sys
+import webbrowser
 from pathlib import Path
 
 import matplotlib
@@ -115,10 +115,7 @@ def graficar(df: pd.DataFrame, resumen: pd.DataFrame, ruta: Path) -> None:
 
 
 def abrir_archivo(ruta: Path) -> None:
-    if hasattr(os, "startfile"):
-        os.startfile(ruta)
-    else:
-        logger.warning("Apertura automática solo disponible en Windows")
+    webbrowser.open(ruta.resolve().as_uri())
 
 
 def main() -> None:
