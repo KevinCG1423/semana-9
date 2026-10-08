@@ -1,6 +1,7 @@
 """Limpieza de ventas, estadísticas por categoría y gráficos, parametrizado por JSON."""
 import json
 import logging
+import os
 import sys
 from pathlib import Path
 
@@ -16,6 +17,7 @@ logger = logging.getLogger("reporte_ventas")
 
 
 def configurar_logging() -> None:
+    sys.stdout.reconfigure(encoding="utf-8")
     logging.basicConfig(
         level=logging.INFO,
         format="%(asctime)s [%(levelname)s] %(message)s",
@@ -112,6 +114,13 @@ def graficar(df: pd.DataFrame, resumen: pd.DataFrame, ruta: Path) -> None:
     logger.info("Gráfico guardado: %s", ruta.name)
 
 
+def abrir_archivo(ruta: Path) -> None:
+    if hasattr(os, "startfile"):
+        os.startfile(ruta)
+    else:
+        logger.warning("Apertura automática solo disponible en Windows")
+
+
 def main() -> None:
     configurar_logging()
     cfg = cargar_config(BASE / "config_reporte.json")
@@ -129,7 +138,10 @@ def main() -> None:
     resumen.to_csv(BASE / cfg["archivo_resumen"], index=False, encoding="utf-8")
     logger.info("Resumen por categoría:\n%s", resumen.round(2).to_string(index=False))
 
-    graficar(df, resumen, BASE / cfg["archivo_grafico"])
+    ruta_grafico = BASE / cfg["archivo_grafico"]
+    graficar(df, resumen, ruta_grafico)
+    if cfg.get("mostrar_grafico", False):
+        abrir_archivo(ruta_grafico)
     logger.info("Proceso finalizado")
 
 

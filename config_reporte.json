@@ -8,5 +8,6 @@
     "categoria"
   ],
   "columna_atipicos": "unidades",
-  "factor_iqr": 1.5
+  "factor_iqr": 1.5,
+  "mostrar_grafico": true
 }

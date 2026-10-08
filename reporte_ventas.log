@@ -30,3 +30,51 @@ Tecnología 650477.65 662475.0 363453.01
 Tecnología 650477.65 662475.0 363453.01
 2026-10-08 02:46:05,332 [INFO] Gráfico guardado: reporte_ventas.png
 2026-10-08 02:46:05,333 [INFO] Proceso finalizado
+2026-10-08 02:49:29,049 [INFO] Config cargada: config_reporte.json
+2026-10-08 02:49:29,051 [INFO] Datos cargados: 128 filas
+2026-10-08 02:49:29,059 [INFO] Duplicados eliminados: 8
+2026-10-08 02:49:29,061 [INFO] Nulos imputados con mediana en 'unidades': 6
+2026-10-08 02:49:29,061 [INFO] Nulos imputados con mediana en 'precio_unitario': 4
+2026-10-08 02:49:29,062 [INFO] Nulos imputados con mediana en 'satisfaccion': 7
+2026-10-08 02:49:29,063 [INFO] Nulos imputados con mediana en 'fecha': 5
+2026-10-08 02:49:29,063 [INFO] Atípicos en 'unidades' (rango 0.00-8.00) eliminados: 3
+2026-10-08 02:49:29,076 [INFO] Resumen por categoría:
+ categoria     media  mediana  desv_std
+  Deportes 193946.71 165040.0 135441.52
+     Hogar 141567.59 128385.0  79458.80
+   Oficina  55697.62  37980.0  48617.96
+Tecnología 650477.65 662475.0 363453.01
+2026-10-08 02:49:29,445 [INFO] Gráfico guardado: reporte_ventas.png
+2026-10-08 02:49:29,445 [INFO] Proceso finalizado
+2026-10-08 02:52:43,076 [INFO] Config cargada: config_reporte.json
+2026-10-08 02:52:43,078 [INFO] Datos cargados: 128 filas
+2026-10-08 02:52:43,086 [INFO] Duplicados eliminados: 8
+2026-10-08 02:52:43,087 [INFO] Nulos imputados con mediana en 'unidades': 6
+2026-10-08 02:52:43,088 [INFO] Nulos imputados con mediana en 'precio_unitario': 4
+2026-10-08 02:52:43,088 [INFO] Nulos imputados con mediana en 'satisfaccion': 7
+2026-10-08 02:52:43,089 [INFO] Nulos imputados con mediana en 'fecha': 5
+2026-10-08 02:52:43,089 [INFO] Atípicos en 'unidades' (rango 0.00-8.00) eliminados: 3
+2026-10-08 02:52:43,101 [INFO] Resumen por categoría:
+ categoria     media  mediana  desv_std
+  Deportes 193946.71 165040.0 135441.52
+     Hogar 141567.59 128385.0  79458.80
+   Oficina  55697.62  37980.0  48617.96
+Tecnología 650477.65 662475.0 363453.01
+2026-10-08 02:52:43,468 [INFO] Gráfico guardado: reporte_ventas.png
+2026-10-08 02:52:43,734 [INFO] Proceso finalizado
+2026-10-08 02:56:14,928 [INFO] Config cargada: config_reporte.json
+2026-10-08 02:56:14,930 [INFO] Datos cargados: 128 filas
+2026-10-08 02:56:14,940 [INFO] Duplicados eliminados: 8
+2026-10-08 02:56:14,941 [INFO] Nulos imputados con mediana en 'unidades': 6
+2026-10-08 02:56:14,942 [INFO] Nulos imputados con mediana en 'precio_unitario': 4
+2026-10-08 02:56:14,943 [INFO] Nulos imputados con mediana en 'satisfaccion': 7
+2026-10-08 02:56:14,943 [INFO] Nulos imputados con mediana en 'fecha': 5
+2026-10-08 02:56:14,944 [INFO] Atípicos en 'unidades' (rango 0.00-8.00) eliminados: 3
+2026-10-08 02:56:14,958 [INFO] Resumen por categoría:
+ categoria     media  mediana  desv_std
+  Deportes 193946.71 165040.0 135441.52
+     Hogar 141567.59 128385.0  79458.80
+   Oficina  55697.62  37980.0  48617.96
+Tecnología 650477.65 662475.0 363453.01
+2026-10-08 02:56:15,360 [INFO] Gráfico guardado: reporte_ventas.png
+2026-10-08 02:56:15,521 [INFO] Proceso finalizado
